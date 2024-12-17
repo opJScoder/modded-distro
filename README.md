@@ -20,6 +20,6 @@
 ### Installation
 Paste following command in Termux
 ```bash
-curl https://raw.githubusercontent.com/TecnicalBot/modded-distro/main/install.sh >> install.sh
+curl https://raw.githubusercontent.com/opJScoder/modded-distro/main/install.sh >> install.sh
 bash install.sh
 ```
